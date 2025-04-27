@@ -21,7 +21,7 @@ I focus on building real-world cybersecurity labs to simulate and detect advance
 - Virtualization: VMware
 
 ## 📫 Contact me 
-- Email : [Siddheshg767@gmail.com] 
+- Email : siddheshg767@gmail.com
 
 
 
