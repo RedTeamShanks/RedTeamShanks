@@ -10,7 +10,7 @@ I focus on building real-world cybersecurity labs to simulate and detect advance
 |NAME                                         | ASSOCIATED PROJECT   |
 |--------------------------------------       |----------------------|
 |Security Automation with Shuffle SOAR	      |  SOC Automation Lab  |
-|Malware Analysis    |  Malware Analysis Lab|
+|Malware Analysis [ZBOT]   |  Malware Analysis Lab|
 |Active Directory Security and Threat Hunting	|  Active Directory Lab|
 
 ## 🛠️ Skills Used
@@ -22,6 +22,7 @@ I focus on building real-world cybersecurity labs to simulate and detect advance
 
 ## 📫 Contact me 
 - Email : siddheshg767@gmail.com
+- Linkedin : www.linkedin.com/in/siddhesh13002
 
 
 
