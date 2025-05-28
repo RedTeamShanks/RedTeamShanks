@@ -10,7 +10,7 @@ I focus on building real-world cybersecurity labs to simulate and detect advance
 |NAME                                         | ASSOCIATED PROJECT   |
 |--------------------------------------       |----------------------|
 |Security Automation with Shuffle SOAR	      |  SOC Automation Lab  |
-|Malware Analysis and Reverse Engineering	    |  Malware Analysis Lab|
+|Malware Analysis    |  Malware Analysis Lab|
 |Active Directory Security and Threat Hunting	|  Active Directory Lab|
 
 ## 🛠️ Skills Used
